@@ -1,0 +1,27 @@
+{
+  "name": "sensebox-twitter",
+  "version": "1.0.0",
+  "description": "Automatically tweets new senseBoxes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sensebox/sensebox-twitter.git"
+  },
+  "keywords": [
+    "senseBox",
+    "Twitter"
+  ],
+  "author": "Matthias <matthias.pfeil@wwu.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sensebox/sensebox-twitter/issues"
+  },
+  "homepage": "https://github.com/sensebox/sensebox-twitter#readme",
+  "dependencies": {
+    "mongo-oplog": "^1.0.1",
+    "twit": "^2.1.1"
+  }
+}
